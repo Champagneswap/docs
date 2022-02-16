@@ -16,7 +16,7 @@ But there are some differences:
 
 * You need to harvest or compound (reinvest) your CHAM by yourself. That means returning to the site, tapping buttons, and using a bit of BNB for transaction fees.
 * Interest is displayed as APR, which doesn’t include compounding.
-* Deposits [SYRUP Token](cristal-pool-faq.md#whats-cristal-token) to your wallet upon staking
+* Deposits [CRISTAL Token](cristal-pool-faq.md#whats-cristal-token) to your wallet upon staking
 
 **Auto CHAM**
 
@@ -25,7 +25,7 @@ But there are some differences:
 * Interest is displayed as APY, which includes compounding.
 * A small performance fee is subtracted from your earnings each time the pool is automatically compounded. See below.
 * An unstaking fee applies when you unstake within 3 days of manually staking. See below.
-* Does not deposit SYRUP to your wallet upon staking
+* Does not deposit CRISTAL to your wallet upon staking
 
 ### What are the fees for the Auto CHAM Cristal Pool?
 

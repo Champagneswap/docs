@@ -20,7 +20,7 @@
 **Distribution:**
 
 * **Farmers -** 75% of the rewards per block \(30 CHAM\)
-* **SYRUP holders -** 25% of the rewards per block \(10 CHAM\)
+* **CRISTAL holders -** 25% of the rewards per block \(10 CHAM\)
 * **Farmers daily -** 900,000 CHAM \(based on 30k blocks per day\)
-* **SYRUP holders daily -** 300,000 CHAM \(based on 30k blocks per day\)
+* **CRISTAL holders daily -** 300,000 CHAM \(based on 30k blocks per day\)
 

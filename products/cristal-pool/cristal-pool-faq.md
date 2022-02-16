@@ -10,7 +10,7 @@ By selecting “Staked Only”, it will make it easier to find your assets.
 
 ### **Why can’t I unstake my tokens from a Cristal Pool?**
 
-If you are unable to unstake from the Stake Cham, Earn CHAM pools, please check to make sure that you haven’t sold the SYRUP tokens in your wallet. This token acts as a \`proof of ownership\` over your CHAM in the Manual CHAM pool. 
+If you are unable to unstake from the Stake Cham, Earn CHAM pools, please check to make sure that you haven’t sold the CRISTAL tokens in your wallet. This token acts as a \`proof of ownership\` over your CHAM in the Manual CHAM pool. 
 
 ### **Why did my earned tokens go to zero after staking/unstaking?**
 
@@ -98,15 +98,15 @@ The rewards for the "Stake CHAM, earn other tokens" type are provided by the pro
 
 For the "Stake other tokens, earn CHAM" type, the ChampagneSwap treasury buys back CHAM from the market to distribute as rewards. These pools are funded by ChampagneSwap, not by the projects themselves.
 
-### What’s SYRUP Token?
+### What’s CRISTAL Token?
 
-ChampagneSwap’s SYRUP Token is deposited in your wallet when you interact with the **Manual** “Stake CHAM, Earn CHAM” Cristal Pool. It's not staked for 
+ChampagneSwap’s CRISTAL Token is deposited in your wallet when you interact with the **Manual** “Stake CHAM, Earn CHAM” Cristal Pool. It's not staked for 
 
 It’s basically an IOU that shows how much CHAM you’ve staked in the pool.
 
 It’ll be returned automatically when you unstake your CHAM from that pool.
 
 {% hint style="warning" %}
-Don’t sell your SYRUP tokens! You need to return your SYRUP to unstake your CHAM from the Manual CHAM pool. The amount of SYRUP you return must be the same as the amount of CHAM you unstake.
+Don’t sell your CRISTAL tokens! You need to return your CRISTAL to unstake your CHAM from the Manual CHAM pool. The amount of CRISTAL you return must be the same as the amount of CHAM you unstake.
 {% endhint %}
 

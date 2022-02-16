@@ -217,13 +217,13 @@ If you're trading tokens with Restorative Rebase like tau assets tDoge or tBTC, 
 
 > Fail with error 'BEP20: burn amount exceeds balance'
 
-You don't have enough SYRUP in your wallet to unstake from the CHAM-CHAM pool.
+You don't have enough CRISTAL in your wallet to unstake from the CHAM-CHAM pool.
 
 {% tabs %}
 {% tab title="Solution 1" %}
-**Get at least as much SYRUP as the amount of CHAM that you’re trying to unstake.**
+**Get at least as much CRISTAL as the amount of CHAM that you’re trying to unstake.**
 
-1. Buy SYRUP on the exchange. If you want to unstake 100 CHAM, you need at least 100 SYRUP.
+1. Buy CRISTAL on the exchange. If you want to unstake 100 CHAM, you need at least 100 CRISTAL.
 2. Try unstaking again.
 {% endtab %}
 
@@ -242,9 +242,9 @@ This will unstake your staked tokens and lose any uncollected CHAM yield.
 {% endtab %}
 
 {% tab title="Reason" %}
-To stop this happening again, **don’t sell your SYRUP.** You still need it to unstake from the “Stake CHAM Earn CHAM” pool.
+To stop this happening again, **don’t sell your CRISTAL.** You still need it to unstake from the “Stake CHAM Earn CHAM” pool.
 
-This error has happened because you have sold or transferred SYRUP tokens. SYRUP is minted in a 1:1 ratio to CHAM when you stake in the CHAM-CHAM Cristal Pool. SYRUP must be burned at a 1:1 ratio to CHAM when calling leaveStaking (unstaking your CHAM from the pool), so if you don't have enough, you can't unstake from the pool.
+This error has happened because you have sold or transferred CRISTAL tokens. CRISTAL is minted in a 1:1 ratio to CHAM when you stake in the CHAM-CHAM Cristal Pool. CRISTAL must be burned at a 1:1 ratio to CHAM when calling leaveStaking (unstaking your CHAM from the pool), so if you don't have enough, you can't unstake from the pool.
 
 {% embed url="https://dashboard.tenderly.co/tx/binance/0x754e18ceea82acac256b49c2b7a81260f7f86dd5e56ee2e3cc1b6ac864c29a8e" %}
 

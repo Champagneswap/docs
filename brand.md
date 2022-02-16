@@ -28,7 +28,7 @@ You may use ChampagneSwap's Brand Assets when you are:
 * 👌 Linking to our official site or products, such as "Trade our token on ChampagneSwap"
 * 👌 Announcing an official partnership, but only if you have **official approval** by a qualified member of the ChampagneSwap team
 
-For information on other uses of our Brand Assets, please reach out at panchamswap@gmail.com
+For information on other uses of our Brand Assets, please reach out at team@champagneswap.com
 
 ## What you may not do
 
@@ -68,8 +68,6 @@ Download the official ChampagneSwap and CHAM logos.
 By downloading this file, you confirm that you will only use it to the extent permitted by the Terms detailed in this page.
 
 {% hint style="info" %}
-As of November 1st, the CHAM token logo will also be represented by the ChampagneSwap Rabbit icon.
 
-The previous CHAM icon, representing panchams, has been depracated.
 {% endhint %}
 
