@@ -1,0 +1,93 @@
+# Table of contents
+
+* [ChampagneSwap Intro](README.md)
+* [Get Started](get-started/README.md)
+  * [Create a Wallet](get-started/wallet-guide.md)
+  * [Get BEP20 Tokens](get-started/bep20-guide.md)
+  * [Using ChampagneSwap without Centralized Exchanges](get-started/using-panchamswap-without-centralized-exchanges.md)
+  * [Connect Your Wallet to ChampagneSwap](get-started/connection-guide.md)
+* [Click Here for Help](help/README.md)
+  * [Troubleshooting Errors](help/troubleshooting.md)
+  * [General FAQ](help/faq.md)
+  * [Fixing Stuck Pending Transactions on MetaMask](help/unsticking-a-transaction-stuck-as-pending-with-metamask.md)
+  * [Binance Academy Guide](help/binance-academy-guide.md)
+* [Contact Us](contact-us/README.md)
+  * [Business Partnerships](contact-us/business-partnerships.md)
+  * [NFT Market Applications](contact-us/nft-market-applications.md)
+  * [Customer Support](contact-us/customer-support.md)
+  * [Social Accounts & Communities](contact-us/telegram.md)
+* [Brand & Logos](brand.md)
+* [Roadmap](roadmap.md)
+
+## Products
+
+* [🔄 Exchange](products/panchamswap-exchange/README.md)
+  * [Token Swaps](products/panchamswap-exchange/trade.md)
+  * [How to Trade](products/panchamswap-exchange/trade-guide.md)
+  * [Liquidity Pools](products/panchamswap-exchange/panchamswap-pools.md)
+  * [How to Add/Remove Liquidity](products/panchamswap-exchange/liquidity-guide.md)
+* [🚜 Yield Farming](products/yield-farming/README.md)
+  * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
+  * [How to Use Farms with BscScan](products/yield-farming/how-to-use-farms-with-bscscan.md)
+* [🍯 Cristal Pools](products/cristal-pool/README.md)
+  * [How to Stake in Cristal Pools](products/cristal-pool/cristal-pool-guide.md)
+  * [Auto CHAM Cristal Pool](products/cristal-pool/auto-compounding.md)
+  * [Cristal Pool FAQ & Troubleshooting](products/cristal-pool/cristal-pool-faq.md)
+* [🎟 Lottery v2](products/lottery/README.md)
+  * [How to Play Lottery v2](products/lottery/lottery-guide.md)
+  * [Lottery FAQ](products/lottery/lottery-faq.md)
+* [🔮 Prediction](products/prediction/README.md)
+  * [How to Use Prediction](products/prediction/prediction-guide.md)
+  * [Prediction FAQ](products/prediction/prediction-faq.md)
+  * [Prediction Troubleshooting](products/prediction/prediction-troubleshooting.md)
+* [🖼 NFT Market](products/nft-market.md)
+* [🖼 NFT Profile System](products/nft-profile-system/README.md)
+  * [How to Set Up an NFT Profile](products/nft-profile-system/profile-guide.md)
+  * [Teams](products/nft-profile-system/teams.md)
+* [🛍 IFO (Initial Farm Offering)](products/ifo-initial-farm-offering/README.md)
+  * [How to Participate in an IFO](products/ifo-initial-farm-offering/ifo-guide.md)
+  * [How to Participate in an IFO with BscScan](products/ifo-initial-farm-offering/how-to-participate-in-an-ifo-with-bscscan.md)
+  * [Contract Details](products/ifo-initial-farm-offering/contract-details.md)
+* [📈 Analytics (Info)](products/info/README.md)
+  * [Analytics](products/info/panchamswap-analytics.md)
+* [🗳 Voting](products/voting/README.md)
+  * [How to Vote](products/voting/voting-guide.md)
+  * [How to Vote with SafePal Wallet](products/voting/how-to-vote-with-safepal-wallet.md)
+
+## Tokenomics
+
+* [CHAM](tokenomics/cham/README.md)
+  * [CHAM Tokenomics](tokenomics/cham/cham-tokenomics.md)
+  * [Controlling CHAM supply](tokenomics/cham/controlling-cham-supply.md)
+
+## Developers <a href="#code" id="code"></a>
+
+* [Contributing](code/contributing/README.md)
+  * [Codebase Overview](code/contributing/codebase-overview.md)
+* [Bug Bounty](code/bug-bounty.md)
+* [Smart Contracts](code/smart-contracts/README.md)
+  * [ChampagneSwap Exchange](code/smart-contracts/panchamswap-exchange/README.md)
+    * [Factory v2](code/smart-contracts/panchamswap-exchange/factory-v2.md)
+    * [Router v2](code/smart-contracts/panchamswap-exchange/router-v2.md)
+  * [Main Staking/Cristal Pool/MasterChef Contract](code/smart-contracts/main-staking-masterchef-contract.md)
+  * [Auto CHAM Cristal Pool (ChamVault)](code/smart-contracts/chamvault.md)
+  * [Prediction V2](code/smart-contracts/prediction-v2.md)
+  * [Lottery v2](code/smart-contracts/lottery-v2.md)
+
+## Hiring
+
+* [Become a Chef](hiring/become-a-chef/README.md)
+  * [Social Media Marketing Manager](hiring/become-a-chef/social-media-marketing-manager.md)
+  * [Product Lead](hiring/become-a-chef/product-lead.md)
+  * [Frontend Engineer](hiring/become-a-chef/frontend-engineer.md)
+  * [Blockchain QA Engineer](hiring/become-a-chef/senior-qa-engineer.md)
+
+## Contract Governance <a href="#governance" id="governance"></a>
+
+* [Lottery](governance/lottery/README.md)
+  * [Lottery Contract](governance/lottery/lottery-contract.md)
+* [Prediction](governance/prediction.md)
+* [Farms](governance/farms.md)
+* [Cristal Pools](governance/cristal-pools/README.md)
+  * [SmartChefInitializable](governance/cristal-pools/smartchefinitializable.md)
+  * [PoolDeployer](governance/cristal-pools/pooldeployer.md)
